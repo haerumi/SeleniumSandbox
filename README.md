@@ -2,6 +2,7 @@
 
 - SeleniumStudy\GooglePlayView.py : Chrome driver 사용해서 인기앱의 이름과 패키지명을 엑셀파일로 추출
 - exe 파일로 만들어서 배포 가능, Chrome 만 지원
+- Chrome driver는 chrome 버전에 맞게 다운받은 후 GooglePlayView.py 위치와 동일하게 저장해야 함
 
 	한국향 Google play 주소
 	1. 일반 앱 (Google play > 앱 > 인기차트 > 인기앱/게임)
